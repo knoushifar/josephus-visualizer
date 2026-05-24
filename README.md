@@ -49,7 +49,7 @@ josephus-visualizer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/josephus-visualizer.git
+git clone https://github.com/knoushifar/josephus-visualizer.git
 cd josephus-visualizer
 ```
 
